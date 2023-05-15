@@ -1,2 +1,6 @@
-#3학년 응프개 레포입니다.
-이충헌드림
+#include<stdio.h>
+int main(){
+	char a[100];
+	scanf("%s", a);
+	printf("%s", a);
+}
